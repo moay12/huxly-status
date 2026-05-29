@@ -1,7 +1,7 @@
 # Upptime config — https://upptime.js.org/docs/configuration
 
 owner: moay12
-repo: status
+repo: huxly-status
 
 sites:
   - name: Huxly App
