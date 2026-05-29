@@ -1,0 +1,22 @@
+# Upptime config — https://upptime.js.org/docs/configuration
+
+owner: moay12
+repo: status
+
+sites:
+  - name: Huxly App
+    url: https://huxly.app
+
+status-website:
+  cname: status.huxly.app
+  name: Huxly Status
+  logoUrl: https://huxly.app/favicon.ico
+  introTitle: "**Huxly Status** — live uptime for the Huxly platform."
+  introMessage: "Real-time health of huxly.app, updated every 5 minutes. Powered by Upptime."
+  navbar:
+    - title: Status
+      href: /
+    - title: Huxly
+      href: https://huxly.app
+
+# Notifications, assignees, and more: https://upptime.js.org/docs/configuration
