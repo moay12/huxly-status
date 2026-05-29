@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Huxly App",
+    "url": "https://huxly.app",
+    "icon": "https://icons.duckduckgo.com/ip3/huxly.app.ico",
+    "slug": "huxly-app",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 841,
+    "timeDay": 841,
+    "timeWeek": 841,
+    "timeMonth": 841,
+    "timeYear": 841,
+    "dailyMinutesDown": {}
+  }
+]
